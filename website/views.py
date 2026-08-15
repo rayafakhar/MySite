@@ -10,3 +10,13 @@ def about_view(request):
 def contact_view(request):
     return render(request,'website/contact.html')
 
+def elements_view(request):
+    return render(request, 'website/elements.html')
+
+def blog_home_view(request):
+    return render(request, 'blog/blog-home.html')
+
+def blog_single_view(request):
+    return render(request, 'blog/blog-single.html')
+
+
