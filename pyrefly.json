@@ -1,0 +1,4 @@
+{
+  "python_path": "venv/bin/python",
+  "search_paths": ["venv/lib/python3.13/site-packages"]
+}

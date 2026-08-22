@@ -1,4 +1,4 @@
-Django >3.2,< 3.3
-asgiref
-pytz
-sqlparse
+asgiref==3.12.1
+Django==5.2.17
+pytz==2026.3.post1
+sqlparse==0.6.0

@@ -9,5 +9,4 @@ urlpatterns = [
     path('contact', contact_view, name='contact'),
     path('elements', elements_view, name='elements'),
     path('blog-home', blog_home_view, name='blog_home'),
-    path('test', test_view, name='test'),
 ]
